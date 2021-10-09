@@ -70,6 +70,6 @@ ${prefix}term <code>
 => <code>
 $ <code>
 
-ꪶ𖣂ꫂFajarꪶ𖣂ꫂ
+ꪶ𖣂ꫂKirBotzꪶ𖣂ꫂ
 `
 }
