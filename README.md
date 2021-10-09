@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
+<img src="https://i.ibb.co/d0xrxHY/thub.jpg" alt="SELF-HX" width="300" />
 
 # DAHLAH
 
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285751056816">KYAAA ONI CHAN >//< </a>
+  <a href="https://wa.me/6287705048235">KYAAA ONI CHAN >//< </a>
 </h4>
 </p>
 
